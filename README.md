@@ -51,7 +51,7 @@ If there are unequal numbers of X and Y in the input array.
 If two adjacents X values are there.
 If X occurs at the last index of the array.
 
-4.  splitArray
+#### 4.  splitArray
 
 Return the index if there is a place to split the input array so that the sum of the numbers on one side is equal to the sum of the numbers on the other side else return -1. For ex
 
